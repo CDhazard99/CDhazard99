@@ -1,16 +1,29 @@
-## Hi there 👋
+# hey, I'm Aditya. 👋
 
-<!--
-**CDhazard99/CDhazard99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+not an expert.
+not trying to be one overnight.
 
-Here are some ideas to get you started:
+just a CSE student who likes figuring out
+how things work — and then trying to build them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## currently.exe
+
+→ learning Full Stack Development  
+→ exploring Cloud ☁️  
+→ getting into AI / ML 🤖  
+→ improving Python & Java  
+→ building things instead of just watching tutorials
+
+---
+
+## the stack I'm growing into
+
+```
+Frontend    →  HTML • CSS • JavaScript
+Backend     →  APIs • Server-side development
+Database    →  SQL • NoSQL
+Cloud       →  AWS / Azure
+Tools       →  Git • GitHub • Linux
+AI          →  ML • GenAI
