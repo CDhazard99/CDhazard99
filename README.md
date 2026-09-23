@@ -1,4 +1,4 @@
-# hey, I'm Aditya. 👋
+```# hey, I'm Aditya. 👋```
 
 not an expert.
 not trying to be one overnight.
@@ -9,12 +9,13 @@ how things work — and then trying to build them.
 ---
 
 ## currently.exe
-
+```
 → learning Full Stack Development  
 → exploring Cloud ☁️  
 → getting into AI / ML 🤖  
 → improving Python & Java  
 → building things instead of just watching tutorials
+```
 
 ---
 
